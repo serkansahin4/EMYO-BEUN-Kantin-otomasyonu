@@ -1,0 +1,81 @@
+C:\Users\Serkan\Desktop\BeunKatinUI\BeunKantin.WindowsFormUI\bin\Debug\BeunKantin.WindowsFormUI.exe.config
+C:\Users\Serkan\Desktop\BeunKatinUI\BeunKantin.WindowsFormUI\bin\Debug\BeunKantin.WindowsFormUI.exe
+C:\Users\Serkan\Desktop\BeunKatinUI\BeunKantin.WindowsFormUI\bin\Debug\BeunKantin.WindowsFormUI.pdb
+C:\Users\Serkan\Desktop\BeunKatinUI\BeunKantin.WindowsFormUI\bin\Debug\BeunKantin.Business.dll
+C:\Users\Serkan\Desktop\BeunKatinUI\BeunKantin.WindowsFormUI\bin\Debug\BeunKantin.DataAccess.dll
+C:\Users\Serkan\Desktop\BeunKatinUI\BeunKantin.WindowsFormUI\bin\Debug\BeunKantin.Entities.dll
+C:\Users\Serkan\Desktop\BeunKatinUI\BeunKantin.WindowsFormUI\bin\Debug\EntityFramework.dll
+C:\Users\Serkan\Desktop\BeunKatinUI\BeunKantin.WindowsFormUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Serkan\Desktop\BeunKatinUI\BeunKantin.WindowsFormUI\bin\Debug\BeunKantin.Business.pdb
+C:\Users\Serkan\Desktop\BeunKatinUI\BeunKantin.WindowsFormUI\bin\Debug\BeunKantin.Business.dll.config
+C:\Users\Serkan\Desktop\BeunKatinUI\BeunKantin.WindowsFormUI\bin\Debug\BeunKantin.DataAccess.pdb
+C:\Users\Serkan\Desktop\BeunKatinUI\BeunKantin.WindowsFormUI\bin\Debug\BeunKantin.DataAccess.dll.config
+C:\Users\Serkan\Desktop\BeunKatinUI\BeunKantin.WindowsFormUI\bin\Debug\BeunKantin.Entities.pdb
+C:\Users\Serkan\Desktop\BeunKatinUI\BeunKantin.WindowsFormUI\bin\Debug\BeunKantin.Entities.dll.config
+C:\Users\Serkan\Desktop\BeunKatinUI\BeunKantin.WindowsFormUI\bin\Debug\EntityFramework.xml
+C:\Users\Serkan\Desktop\BeunKatinUI\BeunKantin.WindowsFormUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Serkan\Desktop\BeunKatinUI\BeunKantin.WindowsFormUI\obj\Debug\BeunKantin.WindowsFormUI.csprojAssemblyReference.cache
+C:\Users\Serkan\Desktop\BeunKatinUI\BeunKantin.WindowsFormUI\obj\Debug\BeunKantin.WindowsFormUI.SatisRaporlari.resources
+C:\Users\Serkan\Desktop\BeunKatinUI\BeunKantin.WindowsFormUI\obj\Debug\BeunKantin.WindowsFormUI.SatisYap.resources
+C:\Users\Serkan\Desktop\BeunKatinUI\BeunKantin.WindowsFormUI\obj\Debug\BeunKantin.WindowsFormUI.PersonelGirisi.resources
+C:\Users\Serkan\Desktop\BeunKatinUI\BeunKantin.WindowsFormUI\obj\Debug\BeunKantin.WindowsFormUI.Properties.Resources.resources
+C:\Users\Serkan\Desktop\BeunKatinUI\BeunKantin.WindowsFormUI\obj\Debug\BeunKantin.WindowsFormUI.csproj.GenerateResource.cache
+C:\Users\Serkan\Desktop\BeunKatinUI\BeunKantin.WindowsFormUI\obj\Debug\BeunKantin.WindowsFormUI.csproj.CoreCompileInputs.cache
+C:\Users\Serkan\Desktop\BeunKatinUI\BeunKantin.WindowsFormUI\obj\Debug\BeunKantin.WindowsFormUI.csproj.CopyComplete
+C:\Users\Serkan\Desktop\BeunKatinUI\BeunKantin.WindowsFormUI\obj\Debug\BeunKantin.WindowsFormUI.exe
+C:\Users\Serkan\Desktop\BeunKatinUI\BeunKantin.WindowsFormUI\obj\Debug\BeunKantin.WindowsFormUI.pdb
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2)\BeunKantin.WindowsFormUI\bin\Debug\BeunKantin.WindowsFormUI.exe.config
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2)\BeunKantin.WindowsFormUI\bin\Debug\BeunKantin.WindowsFormUI.exe
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2)\BeunKantin.WindowsFormUI\bin\Debug\BeunKantin.WindowsFormUI.pdb
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2)\BeunKantin.WindowsFormUI\bin\Debug\BeunKantin.Business.dll
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2)\BeunKantin.WindowsFormUI\bin\Debug\BeunKantin.DataAccess.dll
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2)\BeunKantin.WindowsFormUI\bin\Debug\BeunKantin.Entities.dll
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2)\BeunKantin.WindowsFormUI\bin\Debug\EntityFramework.dll
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2)\BeunKantin.WindowsFormUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2)\BeunKantin.WindowsFormUI\bin\Debug\BeunKantin.Business.pdb
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2)\BeunKantin.WindowsFormUI\bin\Debug\BeunKantin.Business.dll.config
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2)\BeunKantin.WindowsFormUI\bin\Debug\BeunKantin.DataAccess.pdb
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2)\BeunKantin.WindowsFormUI\bin\Debug\BeunKantin.DataAccess.dll.config
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2)\BeunKantin.WindowsFormUI\bin\Debug\BeunKantin.Entities.pdb
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2)\BeunKantin.WindowsFormUI\bin\Debug\BeunKantin.Entities.dll.config
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2)\BeunKantin.WindowsFormUI\bin\Debug\EntityFramework.xml
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2)\BeunKantin.WindowsFormUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2)\BeunKantin.WindowsFormUI\obj\Debug\BeunKantin.WindowsFormUI.SatisRaporlari.resources
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2)\BeunKantin.WindowsFormUI\obj\Debug\BeunKantin.WindowsFormUI.SatisYap.resources
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2)\BeunKantin.WindowsFormUI\obj\Debug\BeunKantin.WindowsFormUI.PersonelGirisi.resources
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2)\BeunKantin.WindowsFormUI\obj\Debug\BeunKantin.WindowsFormUI.Properties.Resources.resources
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2)\BeunKantin.WindowsFormUI\obj\Debug\BeunKantin.WindowsFormUI.csproj.GenerateResource.cache
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2)\BeunKantin.WindowsFormUI\obj\Debug\BeunKantin.WindowsFormUI.csproj.CoreCompileInputs.cache
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2)\BeunKantin.WindowsFormUI\obj\Debug\BeunKantin.WindowsFormUI.csproj.CopyComplete
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2)\BeunKantin.WindowsFormUI\obj\Debug\BeunKantin.WindowsFormUI.exe
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2)\BeunKantin.WindowsFormUI\obj\Debug\BeunKantin.WindowsFormUI.pdb
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2)\BeunKantin.WindowsFormUI\obj\Debug\BeunKantin.WindowsFormUI.csprojAssemblyReference.cache
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.WindowsFormUI\bin\Debug\BeunKantin.WindowsFormUI.exe.config
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.WindowsFormUI\bin\Debug\BeunKantin.WindowsFormUI.exe
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.WindowsFormUI\bin\Debug\BeunKantin.WindowsFormUI.pdb
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.WindowsFormUI\bin\Debug\BeunKantin.Business.dll
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.WindowsFormUI\bin\Debug\BeunKantin.DataAccess.dll
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.WindowsFormUI\bin\Debug\BeunKantin.Entities.dll
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.WindowsFormUI\bin\Debug\EntityFramework.dll
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.WindowsFormUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.WindowsFormUI\bin\Debug\BeunKantin.Business.pdb
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.WindowsFormUI\bin\Debug\BeunKantin.Business.dll.config
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.WindowsFormUI\bin\Debug\BeunKantin.DataAccess.pdb
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.WindowsFormUI\bin\Debug\BeunKantin.DataAccess.dll.config
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.WindowsFormUI\bin\Debug\BeunKantin.Entities.pdb
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.WindowsFormUI\bin\Debug\BeunKantin.Entities.dll.config
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.WindowsFormUI\bin\Debug\EntityFramework.xml
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.WindowsFormUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.WindowsFormUI\obj\Debug\BeunKantin.WindowsFormUI.csprojAssemblyReference.cache
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.WindowsFormUI\obj\Debug\BeunKantin.WindowsFormUI.PersonelGirisi.resources
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.WindowsFormUI\obj\Debug\BeunKantin.WindowsFormUI.Properties.Resources.resources
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.WindowsFormUI\obj\Debug\BeunKantin.WindowsFormUI.csproj.GenerateResource.cache
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.WindowsFormUI\obj\Debug\BeunKantin.WindowsFormUI.csproj.CoreCompileInputs.cache
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.WindowsFormUI\obj\Debug\BeunKantin.WindowsFormUI.csproj.CopyComplete
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.WindowsFormUI\obj\Debug\BeunKantin.WindowsFormUI.exe
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.WindowsFormUI\obj\Debug\BeunKantin.WindowsFormUI.pdb
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.WindowsFormUI\obj\Debug\BeunKantin.WindowsFormUI.PersonelIade.resources
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.WindowsFormUI\obj\Debug\BeunKantin.WindowsFormUI.PersonelSatisRaporlari.resources
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.WindowsFormUI\obj\Debug\BeunKantin.WindowsFormUI.PersonelAnasayfa.resources
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.WindowsFormUI\obj\Debug\BeunKantin.WindowsFormUI.AdminAnasayfa.resources
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.WindowsFormUI\obj\Debug\BeunKantin.WindowsFormUI.AdminGiris.resources

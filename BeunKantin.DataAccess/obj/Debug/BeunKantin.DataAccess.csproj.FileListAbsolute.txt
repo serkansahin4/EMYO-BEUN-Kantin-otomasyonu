@@ -1,0 +1,45 @@
+C:\Users\Serkan\Desktop\BeunKatinUI\BeunKantin.DataAccess\bin\Debug\BeunKantin.DataAccess.dll.config
+C:\Users\Serkan\Desktop\BeunKatinUI\BeunKantin.DataAccess\bin\Debug\BeunKantin.DataAccess.dll
+C:\Users\Serkan\Desktop\BeunKatinUI\BeunKantin.DataAccess\bin\Debug\BeunKantin.DataAccess.pdb
+C:\Users\Serkan\Desktop\BeunKatinUI\BeunKantin.DataAccess\bin\Debug\BeunKantin.Entities.dll
+C:\Users\Serkan\Desktop\BeunKatinUI\BeunKantin.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Serkan\Desktop\BeunKatinUI\BeunKantin.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Serkan\Desktop\BeunKatinUI\BeunKantin.DataAccess\bin\Debug\BeunKantin.Entities.pdb
+C:\Users\Serkan\Desktop\BeunKatinUI\BeunKantin.DataAccess\bin\Debug\BeunKantin.Entities.dll.config
+C:\Users\Serkan\Desktop\BeunKatinUI\BeunKantin.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Serkan\Desktop\BeunKatinUI\BeunKantin.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Serkan\Desktop\BeunKatinUI\BeunKantin.DataAccess\obj\Debug\BeunKantin.DataAccess.csprojAssemblyReference.cache
+C:\Users\Serkan\Desktop\BeunKatinUI\BeunKantin.DataAccess\obj\Debug\BeunKantin.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Serkan\Desktop\BeunKatinUI\BeunKantin.DataAccess\obj\Debug\BeunKantin.DataAccess.csproj.CopyComplete
+C:\Users\Serkan\Desktop\BeunKatinUI\BeunKantin.DataAccess\obj\Debug\BeunKantin.DataAccess.dll
+C:\Users\Serkan\Desktop\BeunKatinUI\BeunKantin.DataAccess\obj\Debug\BeunKantin.DataAccess.pdb
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2)\BeunKantin.DataAccess\bin\Debug\BeunKantin.DataAccess.dll.config
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2)\BeunKantin.DataAccess\bin\Debug\BeunKantin.DataAccess.dll
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2)\BeunKantin.DataAccess\bin\Debug\BeunKantin.DataAccess.pdb
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2)\BeunKantin.DataAccess\bin\Debug\BeunKantin.Entities.dll
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2)\BeunKantin.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2)\BeunKantin.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2)\BeunKantin.DataAccess\bin\Debug\BeunKantin.Entities.pdb
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2)\BeunKantin.DataAccess\bin\Debug\BeunKantin.Entities.dll.config
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2)\BeunKantin.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2)\BeunKantin.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2)\BeunKantin.DataAccess\obj\Debug\BeunKantin.DataAccess.csprojAssemblyReference.cache
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2)\BeunKantin.DataAccess\obj\Debug\BeunKantin.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2)\BeunKantin.DataAccess\obj\Debug\BeunKantin.DataAccess.csproj.CopyComplete
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2)\BeunKantin.DataAccess\obj\Debug\BeunKantin.DataAccess.dll
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2)\BeunKantin.DataAccess\obj\Debug\BeunKantin.DataAccess.pdb
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.DataAccess\bin\Debug\BeunKantin.DataAccess.dll.config
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.DataAccess\bin\Debug\BeunKantin.DataAccess.dll
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.DataAccess\bin\Debug\BeunKantin.DataAccess.pdb
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.DataAccess\bin\Debug\BeunKantin.Entities.dll
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.DataAccess\bin\Debug\BeunKantin.Entities.pdb
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.DataAccess\bin\Debug\BeunKantin.Entities.dll.config
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.DataAccess\obj\Debug\BeunKantin.DataAccess.csprojAssemblyReference.cache
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.DataAccess\obj\Debug\BeunKantin.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.DataAccess\obj\Debug\BeunKantin.DataAccess.csproj.CopyComplete
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.DataAccess\obj\Debug\BeunKantin.DataAccess.dll
+C:\Users\Serkan\Desktop\BeunKatinUI - Kopya (2) - Kopya\BeunKantin.DataAccess\obj\Debug\BeunKantin.DataAccess.pdb
